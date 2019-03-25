@@ -7,7 +7,7 @@ Check out this new node app that I made. It listens to your commands and perform
 **node liri movie-this name**
 **node liri do-what-it-says**
 
-![Concert-search](/images/concert-search.png)
+![Concert-search](./images/Concert-search)
 
 I also have a couple added features:
 If your request has an empty or incorrect action - it will give you an error and explain how to work it correctly.

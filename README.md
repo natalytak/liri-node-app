@@ -2,10 +2,10 @@
 Hi there! 
 Check out this new node app that I made. It listens to your commands and performs a search for a movie, song or concerts of a specific artist. All you have to do is ask LIRI what you'd like her to do out of the following 4 actions:
 
-**node liri concert-this name**
-**node liri spotify-this-song name**
-**node liri movie-this name**
-**node liri do-what-it-says**
+1. Item 1 **node liri concert-this name**
+1. Item 2 **node liri spotify-this-song name**
+1. Item 3 **node liri movie-this name**
+1. Item 4 **node liri do-what-it-says**
 
 ![Concert-search](./images/Concert-search.png)
 

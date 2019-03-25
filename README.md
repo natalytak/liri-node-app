@@ -16,7 +16,7 @@ I also have a random action feature **do-what-it-says** which will randomly pick
 And last, but not least - my app logges all your search data into the **log.txt** file - so you can take it with you!
 Here are some screenshots of how this works. Enjoy!
 
-![concert-search](./images/concert-search .png)
+![concert-search](./images/concert-search )
 ![movie-search](./images/movie-search.png)
 ![song-search](./images/song-search.png)
 ![movie-search-no-name](./images/movie-search-no-name.png)
